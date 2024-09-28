@@ -7,7 +7,8 @@ candidates = [
     'Elan',
     'XRay',
     'Greg',
-    'Rich'
+    'Rich',
+    'Paul'
 ]
 
 def raffle( seed = None ):
