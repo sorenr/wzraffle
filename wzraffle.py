@@ -3,12 +3,13 @@ import random
 import time
 
 candidates = [
-    'Seba',
     'Elan',
-    'XRay',
     'Greg',
-    'Rich',
+    'Jill',
     'Paul'
+    'Rich',
+    'Seba',
+    'XRay',
 ]
 
 def raffle( seed = None ):
