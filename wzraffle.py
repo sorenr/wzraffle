@@ -3,9 +3,11 @@ import random
 import time
 
 candidates = [
+    'Cris',
     'Elan',
     'Greg',
     'Jill',
+    'Joel',
     'Paul'
     'Rich',
     'Seba',
