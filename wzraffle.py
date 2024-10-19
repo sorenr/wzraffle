@@ -9,8 +9,8 @@ candidates = [
     'Jeff',
     'Jill',
     'Joel',
-    'PaulC'
-    'PaulD'
+    'PaulC',
+    'PaulD',
     'Rich',
     'Seba',
     'XRay',
