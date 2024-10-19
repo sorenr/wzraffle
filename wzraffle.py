@@ -11,7 +11,6 @@ candidates = [
     'Joel',
     'PaulC'
     'PaulD'
-    'Paul'
     'Rich',
     'Seba',
     'XRay',
