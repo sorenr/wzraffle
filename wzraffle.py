@@ -6,8 +6,10 @@ candidates = [
     'Cris',
     'Elan',
     'Greg',
+    'Jeff',
     'Jill',
     'Joel',
+    'PaulD'
     'Paul'
     'Rich',
     'Seba',
